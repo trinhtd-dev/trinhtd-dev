@@ -20,7 +20,7 @@ located_in: Mo Lao, Ha Dong, Hanoi, Vietnam
 current_job: Backend Developer
 education: ["Computer Science Student - PTIT"]
 fields_of_interests: ["Backend Development", "RESTful API", "Database Design"]
-hobbies: ["Coding", "Problem Solving", "Teamwork"]
+hobbies: ["Coding", "Problem Solving", "Reading"]
 ```
 
 <!-- Skills section -->
@@ -83,7 +83,11 @@ hobbies: ["Coding", "Problem Solving", "Teamwork"]
 
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/trinhtd-dev/trinhtd-dev/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/trinhtd-dev/trinhtd-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/trinhtd-dev/trinhtd-dev/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/trinhtd-dev/trinhtd-dev/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <!-- Footer -->
