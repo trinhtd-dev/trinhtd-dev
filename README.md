@@ -17,25 +17,9 @@
 ```yaml
 name: Trần Đức Trình
 located_in: Mo Lao, Ha Dong, Hanoi, Vietnam
-current_job: Full Stack Developer
-education: 
-  [
-    "Computer Science Student - PTIT",
-    "GPA: 3.48/4.0"
-  ]
-certificates:
-  [
-    "Application Mathematics Certificate - Sponsored by Samsung",
-    "TOEIC - Score: 515 (10/2023)"
-  ]
-fields_of_interests:
-  [
-    "Backend Development", 
-    "Frontend Development",
-    "RESTful API", 
-    "Database Design"
-  ]
-currently_learning: ["Docker", "AWS", "Microservices"]
+current_job: Backend Developer
+education: ["Computer Science Student - PTIT"]
+fields_of_interests: ["Backend Development", "RESTful API", "Database Design"]
 hobbies: ["Coding", "Problem Solving", "Teamwork"]
 ```
 
@@ -96,15 +80,6 @@ hobbies: ["Coding", "Problem Solving", "Teamwork"]
 <a href="https://github.com/trinhtd-dev/Task-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=Task-Management-System&theme=dark" />
 </a>
-
-<!-- GitHub Stats -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trinhtd-dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhtd-dev&layout=compact&theme=radical" />
-</p>
 
 <!-- Snake animation -->
 <p align="center">
