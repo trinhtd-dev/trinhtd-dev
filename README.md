@@ -1,6 +1,6 @@
 <!-- Dynamic header with capsule-render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Trần%20Đức%20Trình&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Trần%20Đức%20Trình&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descAlign=62"/>
 </p>
 
 <!-- Social media icons and contact links -->
