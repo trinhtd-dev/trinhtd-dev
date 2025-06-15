@@ -74,20 +74,20 @@ hobbies: ["Coding", "Problem Solving", "Reading"]
 <a href="https://github.com/trinhtd-dev/project-management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=project-management&theme=dark" />
 </a>
+
 <a href="https://github.com/trinhtd-dev/Music-Streaming-Flatform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=Music-Streaming-Flatform&theme=dark" />
 </a>
+
 <a href="https://github.com/trinhtd-dev/Task-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=Task-Management-System&theme=dark" />
 </a>
+
 <a href="https://github.com/trinhtd-dev/ElectroTech-Admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=ElectroTech-Admin&theme=dark" />
 </a>
 <a href="https://github.com/trinhtd-dev/Project-Task-Hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=Project-Task-Hub&theme=dark" />
-</a>
-<a href="https://github.com/trinhtd-dev/Book-Store-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhtd-dev&repo=Book-Store-Website&theme=dark" />
 </a>
 
 <!-- Snake animation -->
